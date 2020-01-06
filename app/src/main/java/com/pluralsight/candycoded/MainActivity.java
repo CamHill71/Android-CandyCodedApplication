@@ -83,6 +83,8 @@ public class MainActivity extends AppCompatActivity {
     // TODO - Task 1 - Show Store Information Activity
     // ***
 
+    test
+
     private void addCandiesToDatabase(Candy[] candies) {
         SQLiteDatabase db = candyDbHelper.getWritableDatabase();
 
